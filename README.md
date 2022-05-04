@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nirucha Norwong
-- 👀 I’m interested in Table tennis & aquarium
-- 🌱 I’m currently learning C# lenguage
+- 👀 I’m interested in Table tennis & Aquarium
+- 🌱 I’m currently learning C# , SQL language
 - 📫 How to reach me my address: 92/75, Ta Khan Subdistrict, Ban Khai District
 ,Rayong Province 21120
 
